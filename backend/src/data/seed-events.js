@@ -1,6 +1,5 @@
-export const events = [
+export const seedEvents = [
   {
-    id: "event-1",
     title: "Yapay Zeka ve Geleceğin Teknolojileri Semineri",
     category: "Seminer",
     capacity: 150,
@@ -10,7 +9,6 @@ export const events = [
     description: "Sektör liderleriyle yapay zeka ve makine öğrenimi üzerine söyleşi."
   },
   {
-    id: "event-2",
     title: "Gömülü Sistemler ve IoT Atölyesi",
     category: "Atölye",
     capacity: 25,
@@ -20,7 +18,6 @@ export const events = [
     description: "Mikrodenetleyiciler ve sensörlerle pratik proje geliştirme."
   },
   {
-    id: "event-3",
     title: "Mobil Uygulama Geliştirme Hackathonu",
     category: "Yarışma",
     capacity: 60,
@@ -30,7 +27,6 @@ export const events = [
     description: "24 saatlik süre boyunca en iyi mobil uygulamayı geliştirme maratonu."
   },
   {
-    id: "event-4",
     title: "Siber Güvenlik ve Ağ Güvenliği Paneli",
     category: "Panel",
     capacity: 100,
@@ -40,7 +36,6 @@ export const events = [
     description: "Web güvenliği ve sızma testleri hakkında uzman görüşleri."
   },
   {
-    id: "event-5",
     title: "UI/UX Tasarım İlkeleri Workshop",
     category: "Atölye",
     capacity: 35,
@@ -50,7 +45,6 @@ export const events = [
     description: "Figma ile kullanıcı deneyimi odaklı arayüz tasarımı."
   },
   {
-    id: "event-6",
     title: "Açık Kaynak Yazılım Buluşması",
     category: "Buluşma",
     capacity: 80,
